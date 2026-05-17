@@ -5,12 +5,25 @@ pipe-separated record format into a nested XML structure.
 
 Written in Rust.
 
-## Prerequisites
+## Running a pre-built binary
 
-Rust toolchain (tested with 1.90, anything reasonably modern should work).
-Install via [rustup](https://rustup.rs).
+A statically-linked Linux x86_64 binary is attached to each tagged release on
+the GitHub [Releases](../../releases) page. It has no runtime dependencies and
+should work on any x86_64 Linux distribution (Debian, Ubuntu, RHEL, Arch,
+Alpine, etc.).
 
-## Running
+```sh
+# Download from the Releases page, then:
+chmod +x txt_to_xml_parser
+./txt_to_xml_parser                  # reads input.txt, prints XML to stdout
+./txt_to_xml_parser some.txt         # reads given file
+cat some.txt | ./txt_to_xml_parser - # reads stdin
+```
+
+## Building from source
+
+Requires a Rust toolchain (tested with 1.90, anything reasonably modern should
+work). Install via [rustup](https://rustup.rs).
 
 ```sh
 cargo run                  # reads input.txt, prints XML to stdout

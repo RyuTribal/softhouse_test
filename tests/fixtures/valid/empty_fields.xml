@@ -1,0 +1,10 @@
+<people>
+  <person>
+    <firstname>Sole</firstname>
+    <lastname>Mobile</lastname>
+    <phone>
+      <mobile></mobile>
+      <landline>08-1234</landline>
+    </phone>
+  </person>
+</people>

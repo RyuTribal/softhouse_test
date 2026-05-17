@@ -1,0 +1,28 @@
+<people>
+  <person>
+    <firstname>First</firstname>
+    <lastname>One</lastname>
+    <phone>
+      <mobile>0700-000001</mobile>
+      <landline>01-000001</landline>
+    </phone>
+    <address>
+      <street>Street 1</street>
+      <city>City1</city>
+      <zip>11111</zip>
+    </address>
+  </person>
+  <person>
+    <firstname>Second</firstname>
+    <lastname>Two</lastname>
+    <address>
+      <street>Street 2</street>
+      <city>City2</city>
+      <zip>22222</zip>
+    </address>
+    <family>
+      <name>Child</name>
+      <born>2020</born>
+    </family>
+  </person>
+</people>

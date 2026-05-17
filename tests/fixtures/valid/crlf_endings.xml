@@ -1,0 +1,10 @@
+<people>
+  <person>
+    <firstname>Carriage</firstname>
+    <lastname>Return</lastname>
+    <phone>
+      <mobile>0700-000001</mobile>
+      <landline>01-000001</landline>
+    </phone>
+  </person>
+</people>

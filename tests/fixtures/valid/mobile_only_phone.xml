@@ -1,0 +1,9 @@
+<people>
+  <person>
+    <firstname>MobileOnly</firstname>
+    <lastname>User</lastname>
+    <phone>
+      <mobile>0700-123456</mobile>
+    </phone>
+  </person>
+</people>

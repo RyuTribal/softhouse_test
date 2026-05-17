@@ -1,0 +1,11 @@
+<people>
+  <person>
+    <firstname>Tom &amp; Jerry</firstname>
+    <lastname>&lt;Smith&gt;</lastname>
+    <address>
+      <street>Main &amp; Elm</street>
+      <city>City</city>
+      <zip>10000</zip>
+    </address>
+  </person>
+</people>

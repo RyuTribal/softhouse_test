@@ -1,0 +1,14 @@
+[package]
+name = "txt_to_xml_parser"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "txt_to_xml_parser"
+path = "src/main.rs"
+
+[dev-dependencies]
+roxmltree = "0.20"

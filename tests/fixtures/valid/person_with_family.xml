@@ -1,0 +1,19 @@
+<people>
+  <person>
+    <firstname>Marie</firstname>
+    <lastname>Curie</lastname>
+    <family>
+      <name>Irene</name>
+      <born>1897</born>
+      <phone>
+        <mobile>0700-111111</mobile>
+        <landline>01-111111</landline>
+      </phone>
+      <address>
+        <street>Rue Pierre</street>
+        <city>Paris</city>
+        <zip>75005</zip>
+      </address>
+    </family>
+  </person>
+</people>

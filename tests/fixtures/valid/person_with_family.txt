@@ -1,0 +1,4 @@
+P|Marie|Curie
+F|Irene|1897
+T|0700-111111|01-111111
+A|Rue Pierre|Paris|75005

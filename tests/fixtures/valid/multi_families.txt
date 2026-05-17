@@ -1,0 +1,6 @@
+P|Parent|Of Three
+F|Kid1|2010
+T|001|002
+F|Kid2|2012
+A|Kid2 St|KidTown|55555
+F|Kid3|2014

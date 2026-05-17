@@ -1,0 +1,27 @@
+<people>
+  <person>
+    <firstname>Parent</firstname>
+    <lastname>Of Three</lastname>
+    <family>
+      <name>Kid1</name>
+      <born>2010</born>
+      <phone>
+        <mobile>001</mobile>
+        <landline>002</landline>
+      </phone>
+    </family>
+    <family>
+      <name>Kid2</name>
+      <born>2012</born>
+      <address>
+        <street>Kid2 St</street>
+        <city>KidTown</city>
+        <zip>55555</zip>
+      </address>
+    </family>
+    <family>
+      <name>Kid3</name>
+      <born>2014</born>
+    </family>
+  </person>
+</people>

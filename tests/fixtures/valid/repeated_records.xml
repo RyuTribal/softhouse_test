@@ -1,0 +1,24 @@
+<people>
+  <person>
+    <firstname>Alice</firstname>
+    <lastname>Smith</lastname>
+    <phone>
+      <mobile>111</mobile>
+      <landline>222</landline>
+    </phone>
+    <phone>
+      <mobile>333</mobile>
+      <landline>444</landline>
+    </phone>
+    <address>
+      <street>First St</street>
+      <city>City1</city>
+      <zip>10000</zip>
+    </address>
+    <address>
+      <street>Second St</street>
+      <city>City2</city>
+      <zip>20000</zip>
+    </address>
+  </person>
+</people>

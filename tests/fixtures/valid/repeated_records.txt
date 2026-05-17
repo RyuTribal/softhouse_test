@@ -1,0 +1,5 @@
+P|Alice|Smith
+T|111|222
+T|333|444
+A|First St|City1|10000
+A|Second St|City2|20000

@@ -34,7 +34,7 @@ fn main() {
     print!("{xml}");
 
     if !report.issues.is_empty() {
-        println!("======== Parsing Error Report ========")
+        eprintln!("======== Parsing Error Report ========")
     }
     for issue in &report.issues {
         eprintln!("{issue}");

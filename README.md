@@ -1,5 +1,7 @@
 # txt → XML parser
 
+Readme written by CLAUDE with my guidance
+
 Solution to the Softhouse Norr code test (see `tu-norr.pdf`). Converts a line-based
 pipe-separated record format into a nested XML structure.
 

@@ -1,5 +1,7 @@
 # txt → XML parser
 
+Readme written by CLAUDE with my guidance
+
 Solution to the Softhouse Norr code test (see `tu-norr.pdf`). Converts a line-based
 pipe-separated record format into a nested XML structure.
 
@@ -158,7 +160,7 @@ with **zero** issues in the report.
 | `xml_specials` | `&`, `<`, `>` in field values are XML-escaped |
 | `repeated_records` | Multiple `T` and multiple `A` under one `P` render in document order |
 | `multi_families` | Three sibling `F` blocks under one `P` — exercises F-closes-prior-F |
-| `mobile_only_phone` | `T|0700-123456` with no landline field — exercises optional trailing field |
+| `mobile_only_phone` | `T\|0700-123456` with no landline field — exercises optional trailing field |
 
 ### Invalid fixtures (6)
 
